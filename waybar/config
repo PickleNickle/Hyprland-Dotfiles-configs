@@ -1,0 +1,24 @@
+{   
+  "layer": "top",
+  "position": "top",
+  "height": 32,
+
+  "margin-top": 5,
+  "margin-bottom": -10,
+  "margin-left": 5,
+  "margin-right": 5,
+
+  "modules-left": ["tray"],
+  "modules-center": ["clock"],
+  "modules-right": ["cpu", "memory"]
+  },
+
+  "cpu": 
+  {
+    "format": "  {usage}%"
+  },
+
+  "memory": 
+  {
+    "format": "  {used}MB"
+  }
