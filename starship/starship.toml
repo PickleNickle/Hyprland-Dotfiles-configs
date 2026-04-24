@@ -1,0 +1,17 @@
+format = "$username@$hostname $directory $character"
+
+[username]
+show_always = true
+style_user = "cyan bold"
+
+[hostname]
+disabled = false
+style = "cyan bold"
+
+[directory]
+style = "blue bold"
+truncation_length = 3
+
+[character]
+success_symbol = "\n[➜](purple)"
+error_symbol = "\n[➜](purple)"
