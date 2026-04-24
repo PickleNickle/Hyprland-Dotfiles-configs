@@ -1,4 +1,4 @@
-# 🐧 Dotfiles
+# Dotfiles
 
 Personal Hyprland-based Linux setup.
 
@@ -8,7 +8,7 @@ It is meant to preserve my workflow, keybinds, and visual setup across installat
 
 ---
 
-## 📁 What's in here
+## What's in here
 
 - Hyprland configuration
 - Waybar setup
@@ -18,6 +18,6 @@ It is meant to preserve my workflow, keybinds, and visual setup across installat
 
 ---
 
-## 🧠 Notes
+## Notes
 
 This is a personal setup and will change over time without notice.
