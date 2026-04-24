@@ -1,4 +1,4 @@
-{   
+{
   "layer": "top",
   "position": "top",
   "height": 32,
@@ -8,17 +8,49 @@
   "margin-left": 5,
   "margin-right": 5,
 
-  "modules-left": ["tray"],
+  "modules-left": ["tray", "hyprland/window"],
   "modules-center": ["clock"],
-  "modules-right": ["cpu", "memory"]
+  "modules-right": ["pulseaudio", "cpu", "memory"],
+
+
+
+
+  "tray": {
+    
   },
 
-  "cpu": 
-  {
-    "format": "  {usage}%"
+  
+  
+  
+   "hyprland/window": {
+    "format": "| {title}"
+
   },
 
-  "memory": 
-  {
-    "format": "  {used}MB"
+
+
+
+
+  "clock": {
+    "format": "{:%I:%M %p}",
+    "tooltip-format": "{:%A, %d, %B %Y}"
+  },
+
+
+
+
+
+
+  "pulseaudio": {
+    "format": "🔊 {volume}% |",
+  },
+
+  "cpu": {
+    "interval": 2,
+    "format": "CPU: {usage}% @ {avg_frequency}Ghz |"
+  },
+
+  "memory": {
+    "format": "RAM: {used}Gib"
   }
+}
