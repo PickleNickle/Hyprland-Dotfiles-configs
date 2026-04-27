@@ -22,9 +22,8 @@
   
   
   
-   "hyprland/window": {
-    "format": "| {title}"
-
+  "hyprland/window": {
+    "format": "> {class}",
   },
 
 

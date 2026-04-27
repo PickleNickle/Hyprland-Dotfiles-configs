@@ -1,0 +1,12 @@
+2026-04-27 22:08:01.231 [info] Started local extension host with pid 41452.
+2026-04-27 22:08:01.254 [info] Started initializing default profile extensions in extensions installation folder. file:///home/artemis/.vscode/extensions
+2026-04-27 22:08:01.325 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/artemis/.vscode/extensions
+2026-04-27 22:08:01.815 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-27 22:08:04.003 [info] Auto updating outdated extensions. github.copilot-chat
+2026-04-27 22:08:04.076 [info] [perf] Render performance baseline is 17ms
+2026-04-27 22:08:24.284 [info] Started local extension host with pid 46267.
+2026-04-27 22:08:24.729 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-27 22:08:26.855 [info] [perf] Render performance baseline is 10ms
+2026-04-27 22:08:45.251 [error] [Extension Host] (node:46267) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-04-27 22:08:45.251 [error] [Extension Host] (node:46267) ExperimentalWarning: SQLite is an experimental feature and might change at any time

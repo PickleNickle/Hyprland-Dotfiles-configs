@@ -1,0 +1,44 @@
+2026-04-27 22:08:45.368 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-04-27 22:08:45.368 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-04-27 22:08:45.368 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-04-27 22:08:45.368 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-04-27 22:08:45.375 [info] Logged in as PickleNickle
+2026-04-27 22:08:45.378 [info] Using the Electron fetcher.
+2026-04-27 22:08:45.491 [info] ConversationFeature: Waiting for copilot token to activate conversation feature
+2026-04-27 22:08:45.510 [info] Creating node-pty shim: source=/opt/visual-studio-code/resources/app/node_modules/node-pty/build/Release, dest=/home/artemis/.vscode/extensions/github.copilot-chat-0.45.1/node_modules/@github/copilot/sdk/prebuilds/linux-x64
+2026-04-27 22:08:45.510 [info] Creating ripgrep shim: source=/opt/visual-studio-code/resources/app/node_modules/@vscode/ripgrep/bin, dest=/home/artemis/.vscode/extensions/github.copilot-chat-0.45.1/node_modules/@github/copilot/sdk/ripgrep/bin/linux-x64
+2026-04-27 22:08:45.548 [info] Found 1 entries to copy: pty.node
+2026-04-27 22:08:45.549 [info] [CopilotCLI] Cleaned up 1 stale lock file(s).
+2026-04-27 22:08:45.549 [info] [CopilotCLI] MCP server started. Lock file: /home/artemis/.local/state/.copilot/ide/e6eb084f-ff3a-424f-91c8-49bac35838d9.lock
+2026-04-27 22:08:45.549 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-tRnT51/mcp.sock#%2Fmcp
+2026-04-27 22:08:45.549 [info] Found 1 entries to copy: rg
+2026-04-27 22:08:45.870 [info] [CopilotCLI] OpenTelemetry enabled: exporter=file, source=github.copilot
+2026-04-27 22:08:45.882 [info] Got Copilot token for PickleNickle
+2026-04-27 22:08:45.882 [info] Copilot Chat: 0.45.1, VS Code: 1.117.0
+2026-04-27 22:08:45.894 [info] [context keys] Setting context key: github.copilot-chat.activated
+2026-04-27 22:08:45.894 [info] activationBlocker from 'languageModelAccess' took for 421ms
+2026-04-27 22:08:45.895 [info] [CopilotCLIChatSessionContentProvider] listSessions took 356.22827699999834ms
+2026-04-27 22:08:45.942 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-27 22:08:45.942 [info] copilot token sku: free_limited_copilot
+2026-04-27 22:08:45.942 [info] ConversationFeature: Activating contributions
+2026-04-27 22:08:45.942 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2026-04-27 22:08:45.942 [info] Registering default platform agent...
+2026-04-27 22:08:45.943 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-27 22:08:45.943 [info] [code-referencing] Public code references are enabled.
+2026-04-27 22:08:45.943 [info] activationBlocker from 'conversationFeature' took for 475ms
+2026-04-27 22:08:45.944 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-04-27 22:08:45.946 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-04-27 22:08:45.967 [info] [CopilotCLIChatSessionContentProvider] listSessions took 9.458597999997437ms
+2026-04-27 22:08:45.979 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-04-27 22:08:46.013 [info] [CopilotCLIChatSessionContentProvider] listSessions took 7.842294000001857ms
+2026-04-27 22:08:46.370 [error] Failed to create database. Falling back to in-memory db: Error: unable to open database file
+2026-04-27 22:08:46.454 [info] Fetched model metadata in 974ms dc239065-d74d-4b22-b6c1-a7cbedd90489
+2026-04-27 22:08:46.574 [info] Latest entry: ccreq:latest.copilotmd
+2026-04-27 22:08:46.576 [info] ccreq:bdf87923.copilotmd | markdown
+2026-04-27 22:09:19.933 [info] message 0 returned. finish reason: [stop]
+2026-04-27 22:09:19.936 [info] request done: requestId: [1fe9df39-cf95-4fd3-9035-72c7feba5c12] model deployment ID: []
+2026-04-27 22:09:19.937 [info] ccreq:556175d7.copilotmd | success | gpt-4o-mini-2024-07-18 | 1938ms | [gitCommitMessageGenerator]
+2026-04-27 22:09:53.705 [info] [CopilotCLIChatSessionContentProvider] listSessions took 18.455803999997443ms
+2026-04-27 22:10:16.376 [info] [CopilotCLIChatSessionContentProvider] listSessions took 10.930701000004774ms
+2026-04-27 22:11:04.710 [info] [CopilotCLIChatSessionContentProvider] listSessions took 4.957441000005929ms
+2026-04-27 22:11:05.754 [info] [CopilotCLIChatSessionContentProvider] listSessions took 14.575462999986485ms

@@ -1,0 +1,12 @@
+2026-04-27 22:08:05.021 [info] Getting Manifest... github.copilot-chat
+2026-04-27 22:08:05.265 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.117.0","date":"2026-04-21T16:12:14-07:00"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/artemis/.vscode/extensions/extensions.json","path":"/home/artemis/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":true}
+2026-04-27 22:08:08.239 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 775ms.
+2026-04-27 22:08:08.609 [info] Extracted extension to file:///home/artemis/.vscode/extensions/github.copilot-chat-0.45.1: github.copilot-chat
+2026-04-27 22:08:08.617 [info] Renamed to /home/artemis/.vscode/extensions/github.copilot-chat-0.45.1
+2026-04-27 22:08:08.636 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/artemis/.vscode/extensions/extensions.json
+2026-04-27 22:09:55.484 [info] Getting Manifest... ms-vscode.powershell
+2026-04-27 22:09:55.661 [info] Installing extension: ms-vscode.powershell {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/artemis/.vscode/extensions/extensions.json","path":"/home/artemis/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.117.0","date":"2026-04-21T16:12:14-07:00"}}
+2026-04-27 22:09:56.711 [info] Extension signature verification result for ms-vscode.powershell: Success. Internal Code: 0. Executed: true. Duration: 351ms.
+2026-04-27 22:09:57.335 [info] Extracted extension to file:///home/artemis/.vscode/extensions/ms-vscode.powershell-2025.4.0: ms-vscode.powershell
+2026-04-27 22:09:57.340 [info] Renamed to /home/artemis/.vscode/extensions/ms-vscode.powershell-2025.4.0
+2026-04-27 22:09:57.349 [info] Extension installed successfully: ms-vscode.powershell vscode-userdata:/home/artemis/.vscode/extensions/extensions.json

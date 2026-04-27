@@ -1,0 +1,4 @@
+2026-04-27 22:08:01.713 [info] Log level: Info
+2026-04-27 22:08:24.665 [info] Log level: Info
+2026-04-27 22:08:27.871 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2026-04-27 22:08:32.324 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for PickleNickle/Hyprland-Dotfiles-configs: Error: No GitHub authentication session available.
